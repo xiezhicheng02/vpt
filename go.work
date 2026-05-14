@@ -1,0 +1,9 @@
+go 1.22
+
+use (
+	./common
+	./registry
+	./gateway
+	./admin
+	./tracker
+)
